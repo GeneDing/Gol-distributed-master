@@ -1,0 +1,21 @@
+goos: darwin
+goarch: arm64
+pkg: uk.ac.bris.cs/gameoflife
+BenchmarkGol
+BenchmarkGol/1-10  	       5	2492140292 ns/op
+BenchmarkGol/2-10  	       5	2283032800 ns/op
+BenchmarkGol/3-10  	       5	2210258158 ns/op
+BenchmarkGol/4-10  	       5	2214924883 ns/op
+BenchmarkGol/5-10  	       5	2152241242 ns/op
+BenchmarkGol/6-10  	       5	2153427842 ns/op
+BenchmarkGol/7-10  	       5	2141731583 ns/op
+BenchmarkGol/8-10  	       5	2138065825 ns/op
+BenchmarkGol/9-10  	       5	2171735508 ns/op
+BenchmarkGol/10-10 	       5	2168473625 ns/op
+BenchmarkGol/11-10 	       5	2197803308 ns/op
+BenchmarkGol/12-10 	       5	2166665142 ns/op
+BenchmarkGol/13-10 	       5	2178770383 ns/op
+BenchmarkGol/14-10 	       5	2164136958 ns/op
+BenchmarkGol/15-10 	       5	2166738692 ns/op
+BenchmarkGol/16-10 	       5	2181977792 ns/op
+ok  	uk.ac.bris.cs/gameoflife	211.239s
